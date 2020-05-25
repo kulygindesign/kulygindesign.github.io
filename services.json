@@ -18,10 +18,5 @@
         "id": 4,
         "title": "Составление планировочных решений",
         "img": "service-img-4.jpg"
-    },
-    {
-        "id": 5,
-        "title": "test service",
-        "img": "service-img-5.jpg"
     }
 ]
