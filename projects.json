@@ -1,6 +1,6 @@
 [{
         "id": 1,
-        "title": "Чернигов",
+        "title": "ЖК «Казацкая»",
         "short_description": "",
         "preview_img": "project-1.jpg",
         "img_array": [{
@@ -100,15 +100,16 @@
             }
         ],
         "description_project": {
-            "location": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque odit, eos culpa blanditiis perspiciatis officia fugit laborum aspernatur illum nostrum, ipsa a labore consequatur autem neque veritatis nesciunt possimus vitae, voluptatum eum! Ex, similique voluptate. Mollitia, fugit. Ea, fugit culpa.",
-            "living_area": "0 кв.м.",
-            "number_of_rooms": 0
+            "location": "г. Чернигов",
+            "text": "Уютный скандинавский интерьер создан для взрослой пары супругов, любящим простоту, функциональность и природные материалы. Именно поэтому в оформлении пространства акцент сделан на дерево, использовано минимум декора и разноплановых материалов, что позволило не перегрузить интерьер, а подчеркнуть его теплую и домашнюю атмосферу. ",
+            "living_area": "66 кв.м.",
+            "number_of_rooms": 2,
+            "state_project": "На стадии реализации"
         }
     },
     {
         "id": 2,
-        "title": "Москва",
+        "title": "ЖК «Новоизмайловский»",
         "short_description": "",
         "preview_img": "project-2.jpg",
         "img_array": [{
@@ -173,10 +174,140 @@
             }
         ],
         "description_project": {
-            "location": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt placeat in, repellendus autem tenetur, ad nemo nam vel fugiat neque natus expedita provident. Temporibus repudiandae blanditiis laborum.",
-            "living_area": "0 кв.м.",
-            "number_of_rooms": 0
+            "location": "г. Москва",
+            "text": "Еще один проект в скандинавском стиле. Нам удалось визуально расширить площадь жилья благодаря грамотному перепланировочному решению. В зону кухни кроме обеденного стола добавили небольшую зону отдыха, что позволило 2-х комнатную квартиру превратить практически 3-х и получить грамотное, функциональное пространство, вмещающее все необходимое для комфортной жизни семье из 3 человек.",
+            "living_area": "70 кв.м.",
+            "number_of_rooms": 2,
+            "state_project": "Реализован"
+        }
+    },
+    {
+        "id": 3,
+        "title": "ЖК «Вышиванка»",
+        "short_description": "",
+        "preview_img": "project-3.jpg",
+        "img_array": [{
+                "id": 1,
+                "img": "project-3-1.jpg",
+                "description": "Киев 1"
+            },
+            {
+                "id": 2,
+                "img": "project-3-2.jpg",
+                "description": "Киев 2"
+            },
+            {
+                "id": 3,
+                "img": "project-3-3.jpg",
+                "description": "Киев 3"
+            },
+            {
+                "id": 4,
+                "img": "project-3-4.jpg",
+                "description": "Киев 4"
+            },
+            {
+                "id": 5,
+                "img": "project-3-5.jpg",
+                "description": "Киев 5"
+            }
+        ],
+        "description_project": {
+            "location": "г. Киев",
+            "text": "Дизайн-проект квартиры создавался для молодой оперной певицы. Прованский стиль в светлых тонах разбавленный акцентной плиткой и экологичными материалами.",
+            "living_area": "40 кв.м.",
+            "number_of_rooms": 1,
+            "state_project": "Реализован"
+        }
+    },
+    {
+        "id": 4,
+        "title": "ул. Владимиро-Лыбедская",
+        "short_description": "",
+        "preview_img": "project-4.jpg",
+        "img_array": [{
+                "id": 1,
+                "img": "project-4-1.jpg",
+                "description": "Киев 1"
+            },
+            {
+                "id": 2,
+                "img": "project-4-2.jpg",
+                "description": "Киев 2"
+            },
+            {
+                "id": 3,
+                "img": "project-4-3.jpg",
+                "description": "Киев 3"
+            },
+            {
+                "id": 4,
+                "img": "project-4-4.jpg",
+                "description": "Киев 4"
+            },
+            {
+                "id": 5,
+                "img": "project-4-5.jpg",
+                "description": "Киев 5"
+            },
+            {
+                "id": 6,
+                "img": "project-4-6.jpg",
+                "description": "Киев 6"
+            },
+            {
+                "id": 7,
+                "img": "project-4-7.jpg",
+                "description": "Киев 7"
+            },
+            {
+                "id": 8,
+                "img": "project-4-8.jpg",
+                "description": "Киев 8"
+            },
+            {
+                "id": 9,
+                "img": "project-4-9.jpg",
+                "description": "Киев 9"
+            },
+            {
+                "id": 10,
+                "img": "project-4-10.jpg",
+                "description": "Киев 10"
+            },
+            
+            {
+                "id": 11,
+                "img": "project-4-11.jpg",
+                "description": "Киев 11"
+            },
+            {
+                "id": 12,
+                "img": "project-4-12.jpg",
+                "description": "Киев 12"
+            },
+            {
+                "id": 13,
+                "img": "project-4-13.jpg",
+                "description": "Киев 13"
+            },
+            {
+                "id": 14,
+                "img": "project-4-14.jpg",
+                "description": "Киев 14"
+            },
+            {
+                "id": 15,
+                "img": "project-4-15.jpg",
+                "description": "Киев 15"
+            }
+        ],
+        "description_project": {
+            "location": "г. Киев",
+            "text": "Дизайн интерьера магазина техники в стиле industrial. Совместный проект с двумя дизайнерами. Моей главной задачей было составление технической части проекта и общение с прорабом. Постарались создать упорядоченное, функциональное, но презентабельное пространство.",
+            "living_area": "75 кв.м.",
+            "number_of_rooms": null,
+            "state_project": "Реализован"
         }
     }
 ]
